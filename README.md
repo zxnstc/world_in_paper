@@ -55,7 +55,7 @@
 
 如图为网站的UI首页，实现了剪纸剪影的艺术效果。
 
-![1280X1280](/Users/zhangxiaoni/Downloads/1280X1280.PNG)
+![1280X1280](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133455_6kmQZK_1280X1280.png)
 
 引入Animate.css进行适当的特效修饰UI，进行翻页时，不同的页面会有不同的动画效果。
 
@@ -534,67 +534,67 @@
 
 ####  用户登录
 
-![UML 图](/Users/zhangxiaoni/Downloads/UML 图.jpg)
+![UML 图](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133508_PcEncM_UML 图.jpeg)
 
 ####  用户注册
 
-![UML 图-2](/Users/zhangxiaoni/Downloads/UML 图-2.jpg)
+![UML 图-2](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133511_zIZl6v_UML 图-2.jpeg)
 
 ####  用户发帖
 
-![UML 图-3](/Users/zhangxiaoni/Downloads/UML 图-3.jpg)
+![UML 图-3](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133529_VBPxM6_UML 图-3.jpeg)
 
 ####  用户评论帖子
 
-![UML 图-4](/Users/zhangxiaoni/Downloads/UML 图-4.jpg)
+![UML 图-4](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133529_mXQCrG_UML 图-4.jpeg)
 
 #### 用户修改个人信息
 
-![UML 图-5](/Users/zhangxiaoni/Downloads/UML 图-5.jpg)
+![UML 图-5](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133530_pifFmr_UML 图-5.jpeg)
 
 ####  用户发布文章
 
-![UML 图-6](/Users/zhangxiaoni/Downloads/UML 图-6.jpg)
+![UML 图-6](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133530_qLUlyE_UML 图-6.jpeg)
 
 ####  用户浏览剪纸作品
 
-![UML 图-7](/Users/zhangxiaoni/Downloads/UML 图-7.jpg)
+![UML 图-7](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133531_i7fu2J_UML 图-7.jpeg)
 
 ####  用户删除文章
 
-![UML 图-8](/Users/zhangxiaoni/Downloads/UML 图-8.jpg)
+![UML 图-8](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133531_eOiDBt_UML 图-8.jpeg)
 
 ####  用户删除帖子
 
-![UML 图-9](/Users/zhangxiaoni/Downloads/UML 图-9.jpg)
+![UML 图-9](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133531_DuAaWv_UML 图-9.jpeg)
 
 ####  艺术家创建专栏
 
-![UML 图-10](/Users/zhangxiaoni/Downloads/UML 图-10.jpg)
+![UML 图-10](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133532_brxO4B_UML 图-10.jpeg)
 
 ####  艺术家上传剪纸作品
 
-![UML 图-11](/Users/zhangxiaoni/Downloads/UML 图-11.jpg)
+![UML 图-11](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133532_e7yEtZ_UML 图-11.jpeg)
 
 ####  艺术家删除专栏
 
-![UML 图-12](/Users/zhangxiaoni/Downloads/UML 图-12.jpg)
+![UML 图-12](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133532_86xiWT_UML 图-12.jpeg)
 
 ####  艺术家删除剪纸作品
 
-![UML 图-13](/Users/zhangxiaoni/Downloads/UML 图-13.jpg)
+![UML 图-13](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133533_Cl7WIV_UML 图-13.jpeg)
 
 #### 管理员授予用户权限
 
-![UML 图-14](/Users/zhangxiaoni/Downloads/UML 图-14.jpg)
+![UML 图-14](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133533_wKxxsG_UML 图-14.jpeg)
 
 ####  管理员禁用用户
 
-![UML 图-15](/Users/zhangxiaoni/Downloads/UML 图-15.jpg)
+![UML 图-15](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133533_s2OmNp_UML 图-15.jpeg)
 
 ####  管理员删除帖子
 
-![UML 图-16](/Users/zhangxiaoni/Downloads/UML 图-16.jpg)
+![UML 图-16](https://zxn-1313885264.cos.ap-beijing.myqcloud.com/images_typora//20230307133534_o2rFnP_UML 图-16.jpeg)
 
 ## **** **System Architecture Design and Implementation**
 
