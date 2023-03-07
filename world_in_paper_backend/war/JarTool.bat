@@ -1,0 +1,1 @@
+xcopy ".\target\world_in_paper_backend-0.0.1-SNAPSHOT.jar" ".\war\" /y

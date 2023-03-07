@@ -1,0 +1,46 @@
+spring:
+  redis:
+    database: 1
+    host: 117.50.179.215
+    port: 8066
+    password: G3.1415926
+  session:
+    store-type: redis
+    timeout: 1800s
+  mail:
+    host: smtp.163.com
+    protocol: smtp
+    default-encoding: utf-8
+    username: xuepeng_0812@163.com
+    password: LNBTEWTEPJLPAPPX
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+      ssl:
+        enable: true
+
+  datasource:
+    url: jdbc:mysql://117.50.179.215:8065/zjwx
+    username: root
+    password: zjwxdb666
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  page-size-zero: false
+
+
+
+
+
+
