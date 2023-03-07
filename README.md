@@ -55,7 +55,7 @@
 
 如图为网站的UI首页，实现了剪纸剪影的艺术效果。
 
-![img](https://nankai.feishu.cn/space/api/box/stream/download/asynccode/?code=ODI5MDVkYzE5MjlkYzY2MjQ0NWIyNjY3MWI4MWIyZmZfZHJCenlMVFZ3V0hHYU5qQjdUM0hXTDR3VXdidVVXVDBfVG9rZW46Ym94Y253UFRJbUdXYlQzdmVZZDRjTnVEU1VjXzE2NzgxNTg1ODM6MTY3ODE2MjE4M19WNA)
+![1280X1280](/Users/zhangxiaoni/Downloads/1280X1280.PNG)
 
 引入Animate.css进行适当的特效修饰UI，进行翻页时，不同的页面会有不同的动画效果。
 
